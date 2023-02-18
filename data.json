@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Dans quel film de 1994, Tom Hanks joue-t-il le rôle d'un homme ordinaire qui se retrouve pris dans des événements historiques majeurs ?",
+        "options": [
+            "Philadelphia",
+            "Apollo 13",
+            "Forrest Gump",
+            "The Green Mile"
+        ],
+        "answer": "Forrest Gump"
+    },
+    {
+        "question": "Dans quel film de 1999, Keanu Reeves joue-t-il le rôle d'un informaticien qui découvre que sa réalité n'est qu'une simulation informatique ?",
+        "options": [
+            "Blade",
+            "Matrix",
+            "The Crow",
+            "Dark City"
+        ],
+        "answer": "Matrix"
+    },
+    {
+        "question": "Dans quel film de 2013, Leonardo DiCaprio joue-t-il le rôle d'un courtier en bourse qui devient impliqué dans une fraude financière massive ?",
+        "options": [
+            "The Big Short",
+            "Le Loup de Wall Street",
+            "Margin Call",
+            "Inside Job"
+        ],
+        "answer": "Le Loup de Wall Street"
+    },
+    {
+        "question": "Quel film de 2017 suit les aventures d'une femme qui doit protéger sa famille contre des créatures qui chassent au son ?",
+        "options": [
+            "The Silence",
+            "Hush",
+            "A Quiet Place",
+            "Don't Breathe"
+        ],
+        "answer": "A Quiet Place"
+    },
+    {
+        "question": "Dans quel film de 1999, Brad Pitt et Edward Norton jouent-ils le rôle de membres d'un club secret de combats clandestins ?",
+        "options": [
+            "The Game",
+            "American Psycho",
+            "Se7en",
+            "Fight Club"
+        ],
+        "answer": "Fight Club"
+    },
+    {
+        "question": "Quel film de 2016 suit les aventures d'un astronaute abandonné sur Mars et son combat pour survivre et rentrer sur Terre ?",
+        "options": [
+            "Seul sur Mars",
+            "Gravity",
+            "Interstellar",
+            "The Martian"
+        ],
+        "answer": "Seul sur Mars"
+    },
+    {
+        "question": "Dans quel film de 2018, Lady Gaga joue-t-elle le rôle d'une chanteuse en herbe qui devient célèbre grâce à l'aide d'un musicien chevronné ?",
+        "options": [
+            "Bohemian Rhapsody",
+            "Rocketman",
+            "A Star is Born",
+            "La La Land"
+        ],
+        "answer": "A Star is Born"
+    },
+    {
+        "question": "Dans quel film de 1985, Michael J. Fox joue-t-il le rôle d'un adolescent qui voyage dans le temps à bord d'une DeLorean modifiée ?",
+        "options": [
+            "The Terminator",
+            "Retour vers le futur",
+            "Bill & Ted's Excellent Adventure",
+            "Groundhog Day"
+        ],
+        "answer": "Retour vers le futur"
+    },
+    {
+        "question": "Dans quel film peut-on voir le personnage de Jack Dawson, joué par Leonardo DiCaprio ?",
+        "options": [
+            "Inception",
+            "Le Loup de Wall Street",
+            "Titanic",
+            "The Revenant"
+        ],
+        "answer": "Titanic"
+    },
+    {
+        "question": "Qui interprète le personnage de Tony Montana dans le film Scarface de Brian De Palma ?",
+        "options": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Marlon Brando",
+            "Joe Pesci"
+        ],
+        "answer": "Al Pacino"
+    },
+    {
+        "question": "Dans quel sport le mot \"puck\" est-il utilisé ?",
+        "options": [
+            "Hockey sur glace",
+            "Basketball",
+            "Football américain",
+            "Boxe"
+        ],
+        "answer": "Hockey sur glace"
+    },
+    {
+        "question": "Quel est le nom du célèbre joueur de basket-ball ayant remporté 6 titres de champion NBA avec les Chicago Bulls dans les années 90 ?",
+        "options": [
+            "Magic Johnson",
+            "Michael Jordan",
+            "Larry Bird",
+            "Kobe Bryant"
+        ],
+        "answer": "Michael Jordan"
+    },
+    {
+        "question": "En quelle année les Jeux olympiques ont-ils été annulés pour la première fois en temps de paix ?",
+        "options": [
+            "1920",
+            "1936",
+            "1940",
+            "1916"
+        ],
+        "answer": "1916"
+    },
+    {
+        "question": "Combien de joueurs de basket-ball y a-t-il sur le terrain pour chaque équipe ?",
+        "options": [
+            "5",
+            "4",
+            "6",
+            "7"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Dans quel sport peut-on gagner une médaille du Grand Chelem ?",
+        "options": [
+            "Tennis",
+            "Golf",
+            "Natation",
+            "Athlétisme"
+        ],
+        "answer": "Tennis"
+    },
+    {
+        "question": "Combien de temps dure une période de hockey sur glace ?",
+        "options": [
+            "25 minutes",
+            "20 minutes",
+            "30 minutes",
+            "35 minutes"
+        ],
+        "answer": "20 minutes"
+    },
+    {
+        "question": "Quel pays a remporté la Coupe du monde de football de 2018 ?",
+        "options": [
+            "France",
+            "Brésil",
+            "Allemagne",
+            "Argentine"
+        ],
+        "answer": "France"
+    },
+    {
+        "question": "Quel est le record du monde du 100 mètres pour les hommes ?",
+        "options": [
+            "9,63 secondes",
+            "9,68 secondes",
+            "9,58 secondes",
+            "9,72 secondes"
+        ],
+        "answer": "9,58 secondes"
+    },
+    {
+        "question": "Quel est le sport de combat pratiqué dans un octogone ?",
+        "options": [
+            "Le karaté",
+            "Le MMA",
+            "Le judo",
+            "La boxe anglaise"
+        ],
+        "answer": "Le MMA"
+    },
+    {
+        "question": "Quel est le nom du tournoi de tennis le plus prestigieux au monde ?",
+        "options": [
+            "L'US Open",
+            "Wimbledon",
+            "Roland Garros",
+            "L'Open d'Australie"
+        ],
+        "answer": "Wimbledon"
+    },
+    {
+        "question": "Dans quelle série télévisée un personnage nommé Eleven possède-t-il des pouvoirs psychiques ?",
+        "options": [
+            "The Walking Dead",
+            "Game of Thrones",
+            "Stranger Things",
+            "Breaking Bad"
+        ],
+        "answer": "Stranger Things"
+    },
+    {
+        "question": "Dans quelle série télévisée une famille de super-héros lutte-t-elle contre des ennemis pour protéger le monde ?",
+        "options": [
+            "The Flash",
+            "Arrow",
+            "Supergirl",
+            "Les Nouveaux Héros"
+        ],
+        "answer": "The Flash"
+    },
+    {
+        "question": "Dans quelle série télévisée une équipe de scientifiques travaille-t-elle sur un projet de voyage dans le temps ?",
+        "options": [
+            "Westworld",
+            "Stranger Things",
+            "Doctor Who",
+            "Dark"
+        ],
+        "answer": "Dark"
+    },
+    {
+        "question": "Dans quelle série télévisée sortie en 2010 un groupe de survivants lutte-t-il pour leur survie dans un monde envahi de zombies ?",
+        "options": [
+            "The Walking Dead",
+            "Fear the Walking Dead",
+            "Z Nation",
+            "Dead Set"
+        ],
+        "answer": "The Walking Dead"
+    },
+    {
+        "question": "Dans quelle série télévisée une famille de personnes aux pouvoirs extraordinaires doit-elle faire face à une agence gouvernementale secrète ?",
+        "options": [
+            "Heroes",
+            "The Umbrella Academy",
+            "Altered Carbon",
+            "The Gifted"
+        ],
+        "answer": "The Umbrella Academy"
+    },
+    {
+        "question": "Dans quelle série télévisée un personnage est-il un tueur en série qui travaille comme expert médico-légal ?",
+        "options": [
+            "Breaking Bad",
+            "Dexter",
+            "Hannibal",
+            "Bates Motel"
+        ],
+        "answer": "Dexter"
+    },
+    {
+        "question": "Dans quelle série télévisée Sarah Michelle Gellar doit-elle combattre les forces du mal dans sa ville natale ?",
+        "options": [
+            "Angel",
+            "Charmed",
+            "Buffy contre les vampires",
+            "Sabrina, l'apprentie sorcière"
+        ],
+        "answer": "Buffy contre les vampires"
+    },
+    {
+        "question": "Dans quelle série télévisée des détectives enquêtent-ils sur des meurtres à bord d'un navire de croisière luxueux ?",
+        "options": [
+            "Esprits criminels",
+            "The Mentalist",
+            "Columbo",
+            "Death in Paradise"
+        ],
+        "answer": "Death in Paradise"
+    },
+    {
+        "question": "Dans quelle série télévisée un homme nommé Michael Scofield tente-t-il de faire sortir son frère de prison ?",
+        "options": [
+            "Oz",
+            "Prison Break",
+            "Orange Is the New Black",
+            "Wentworth"
+        ],
+        "answer": "Prison Break"
+    },
+    {
+        "question": "Dans quelle série télévisée l'acteur Bryan Cranston interprète-t-il le personnage de Walter White ?",
+        "options": [
+            "Breaking Bad",
+            "The Sopranos",
+            "The Wire",
+            "The Crown"
+        ],
+        "answer": "Breaking Bad"
+    },
+    {
+        "question": "Dans quel dessin animé les personnages se battent-ils contre la Team Rocket ?",
+        "options": [
+            "Digimon",
+            "Yu-Gi-Oh!",
+            "Pokémon",
+            "Beyblade"
+        ],
+        "answer": "Pokémon"
+    },
+    {
+        "question": "Dans quel dessin animé japonais un adolescent cherche-t-il à devenir le plus grand ninja de son village ?",
+        "options": [
+            "Naruto",
+            "Dragon Ball",
+            "One Piece",
+            "Death Note"
+        ],
+        "answer": "Naruto"
+    },
+    {
+        "question": "Dans quel dessin animé les aventures d'un petit garçon nommé Sangoku sont-elles racontées ?",
+        "options": [
+            "Yu-Gi-Oh!",
+            "Pokémon",
+            "Dragon Ball",
+            "Beyblade"
+        ],
+        "answer": "Dragon Ball"
+    },
+    {
+        "question": "Dans quel dessin animé un chat et une jeune fille protègent-ils Paris contre les super-vilains ?",
+        "options": [
+            "Winx Club",
+            "Totally Spies!",
+            "Barbie Dreamhouse Adventures",
+            "Miraculous Ladybug"
+        ],
+        "answer": "Miraculous Ladybug"
+    },
+    {
+        "question": "Dans quel dessin animé une jeune fille nommée Bloom découvre-t-elle qu'elle est une fée et se rend-elle à l'école de magie d'Alféa ?",
+        "options": [
+            "My Little Pony: Friendship is Magic",
+            "Winx Club",
+            "Littlest Pet Shop",
+            "Barbie Dreamhouse Adventures"
+        ],
+        "answer": "Winx Club"
+    },
+    {
+        "question": "Dans quel dessin animé une petite fille et son singe Boots vont-ils à la découverte du monde qui les entoure ?",
+        "options": [
+            "Paw Patrol : La Pat'Patrouille",
+            "Blaze et les Monster Machines",
+            "Dora l'Exploratrice",
+            "Shimmer and Shine"
+        ],
+        "answer": "Dora l'Exploratrice"
+    },
+    {
+        "question": "Quel film d'animation met en scène une jeune fille nommée Riley dont les émotions sont personnifiées ?",
+        "options": [
+            "Les Indestructibles",
+            "Vice-Versa",
+            "Le Monde de Nemo",
+            "Toy Story"
+        ],
+        "answer": "Vice-Versa"
+    },
+    {
+        "question": "Dans quel film d'animation un jeune robot tombe amoureux d'un autre robot nommé EVE ?",
+        "options": [
+            "Le Monde de Nemo",
+            "WALL-E",
+            "Toy Story 2",
+            "Monstres et Cie"
+        ],
+        "answer": "WALL-E"
+    },
+    {
+        "question": "Quel film d'animation raconte l'histoire d'un petit garçon nommé Miguel qui rêve de devenir musicien malgré l'interdiction de sa famille ?",
+        "options": [
+            "Coco",
+            "Les Indestructibles",
+            "Le Monde de Dory",
+            "Toy Story 3"
+        ],
+        "answer": "Coco"
+    },
+    {
+        "question": "Dans quel film d'animation une petite fille nommée Boo se lie d'amitié avec un gros monstre poilu nommé Sully ?",
+        "options": [
+            "Toy Story 2",
+            "Le Monde de Nemo",
+            "Monstres et Cie",
+            "Les Indestructibles"
+        ],
+        "answer": "Monstres et Cie"
+    },
+    {
+        "question": "Quel compositeur a écrit la célèbre symphonie n°9 en ré mineur, également appelée \"Symphonie du Nouveau Monde\" ?",
+        "options": [
+            "Wolfgang Amadeus Mozart",
+            "Ludwig van Beethoven",
+            "Johannes Brahms",
+            "Antonín Dvořák"
+        ],
+        "answer": "Antonín Dvořák"
+    },
+    {
+        "question": "Quel groupe de rock britannique a interprété la chanson \"Bohemian Rhapsody\" ?",
+        "options": [
+            "The Beatles",
+            "Led Zeppelin",
+            "Queen",
+            "The Rolling Stones"
+        ],
+        "answer": "Queen"
+    },
+    {
+        "question": "Quel est le titre de l'album le plus vendu de tous les temps, avec plus de 110 millions d'exemplaires écoulés à travers le monde ?",
+        "options": [
+            "The Dark Side of the Moon - Pink Floyd",
+            "Back in Black - AC/DC",
+            "Thriller - Michael Jackson",
+            "The Bodyguard - Whitney Houston"
+        ],
+        "answer": "Thriller - Michael Jackson"
+    },
+    {
+        "question": "Quel est le nom de la célèbre chanteuse américaine, surnommée la \"Reine de la Soul\" et connue pour des titres comme \"Respect\" et \"I Say a Little Prayer\" ?",
+        "options": [
+            "Tina Turner",
+            "Aretha Franklin",
+            "Whitney Houston",
+            "Janis Joplin"
+        ],
+        "answer": "Aretha Franklin"
+    },
+    {
+        "question": "Quel est le nom du groupe de rock américain connu pour des titres comme \"Stairway to Heaven\", \"Kashmir\" et \"Whole Lotta Love\" ?",
+        "options": [
+            "Led Zeppelin",
+            "Pink Floyd",
+            "The Doors",
+            "The Who"
+        ],
+        "answer": "Led Zeppelin"
+    },
+    {
+        "question": "Quel est le nom du groupe de rap américain formé à Compton, en Californie, dans les années 80, et connu pour des titres comme \"Straight Outta Compton\", \"F*** Tha Police\" et \"Express Yourself\" ?",
+        "options": [
+            "N.W.A.",
+            "Public Enemy",
+            "Wu-Tang Clan",
+            "Run-DMC"
+        ],
+        "answer": "N.W.A."
+    },
+    {
+        "question": "Quel est le nom de la célèbre chanteuse canadienne, connue pour des titres comme \"The Power of Love\" et \"All By Myself\" ?",
+        "options": [
+            "Shania Twain",
+            "Avril Lavigne",
+            "Alanis Morissette",
+            "Celine Dion"
+        ],
+        "answer": "Celine Dion"
+    },
+    {
+        "question": "Qui a écrit la chanson \"Purple Rain\" ?",
+        "options": [
+            "Michael Jackson",
+            "Prince",
+            "Elvis Presley",
+            "David Bowie"
+        ],
+        "answer": "Prince"
+    },
+    {
+        "question": "Quel est le nom du guitariste légendaire connu sous le surnom de \"Slowhand\" ?",
+        "options": [
+            "Eric Clapton",
+            "Jimi Hendrix",
+            "Eddie Van Halen",
+            "Jimmy Page"
+        ],
+        "answer": "Eric Clapton"
+    },
+    {
+        "question": "Quel groupe de musique a sorti l'album \"Appetite for Destruction\" ?",
+        "options": [
+            "Metallica",
+            "AC/DC",
+            "Guns N' Roses",
+            "Led Zeppelin"
+        ],
+        "answer": "Guns N' Roses"
+    },
+    {
+        "question": "Quel est le plus gros animal terrestre ?",
+        "options": [
+            "Éléphant",
+            "Girafe",
+            "Hippopotame",
+            "Rhinocéros"
+        ],
+        "answer": "Éléphant"
+    },
+    {
+        "question": "Quel est l'oiseau le plus rapide au monde ?",
+        "options": [
+            "Aigle royal",
+            "Colibri",
+            "Autour des palombes",
+            "Faucon pèlerin"
+        ],
+        "answer": "Faucon pèlerin"
+    },
+    {
+        "question": "Quel est l'oiseau national des États-Unis ?",
+        "options": [
+            "Le faucon pèlerin",
+            "Le pygargue à tête blanche",
+            "La grue du Canada",
+            "Le vautour noir"
+        ],
+        "answer": "Le pygargue à tête blanche"
+    },
+    {
+        "question": "Combien de doigts ont les pattes d'un chat ?",
+        "options": [
+            "Cinq",
+            "Six",
+            "Sept",
+            "Huit"
+        ],
+        "answer": "Cinq"
+    },
+    {
+        "question": "De quelle couleur est le sang d'une araignée ?",
+        "options": [
+            "Vert",
+            "Jaune",
+            "Bleu",
+            "Rouge"
+        ],
+        "answer": "Bleu"
+    },
+    {
+        "question": "Quel est l'animal le plus rapide sur terre ?",
+        "options": [
+            "Gazelle",
+            "Guépard",
+            "Lion",
+            "Leopard"
+        ],
+        "answer": "Guépard"
+    },
+    {
+        "question": "Quel est l'animal qui peut tenir le plus longtemps sans boire d'eau ?",
+        "options": [
+            "Caméléon",
+            "Lézard",
+            "Crocodile",
+            "Chameau"
+        ],
+        "answer": "Chameau"
+    },
+    {
+        "question": "Quel animal est souvent associé à l'Australie ?",
+        "options": [
+            "Kangourou",
+            "Panda",
+            "Lion",
+            "Zèbre"
+        ],
+        "answer": "Kangourou"
+    },
+    {
+        "question": "Comment appelle-t-on le petit du kangourou ?",
+        "options": [
+            "Poussin",
+            "Chaton",
+            "Joey",
+            "Agneau"
+        ],
+        "answer": "Joey"
+    },
+    {
+        "question": "Quel est le plus petit mammifère au monde ?",
+        "options": [
+            "Souris",
+            "Chauve-souris pygmée",
+            "Tamia",
+            "Lémurien"
+        ],
+        "answer": "Chauve-souris pygmée"
+    },
+    {
+        "question": "Quelle est la série de jeux de combat développée par Capcom ?",
+        "options": [
+            "Tekken",
+            "Street Fighter",
+            "Mortal Kombat",
+            "Super Smash Bros."
+        ],
+        "answer": "Street Fighter"
+    },
+    {
+        "question": "Quel est le nom du personnage principal de la série de jeux vidéo Assassin's Creed ?",
+        "options": [
+            "Ezio Auditore",
+            "Altaïr Ibn-La'Ahad",
+            "Desmond Miles",
+            "Connor Kenway"
+        ],
+        "answer": "Desmond Miles"
+    },
+    {
+        "question": "Quel est le nom du jeu vidéo de survie développé par Mojang ?",
+        "options": [
+            "Terraria",
+            "Minecraft",
+            "Subnautica",
+            "ARK: Survival Evolved"
+        ],
+        "answer": "Minecraft"
+    },
+    {
+        "question": "Quel est le nom de la franchise de jeux de rôle développée par Bethesda Softworks ?",
+        "options": [
+            "Final Fantasy",
+            "The Elder Scrolls",
+            "Diablo",
+            "Dragon Quest"
+        ],
+        "answer": "The Elder Scrolls"
+    },
+    {
+        "question": "Quel est le nom du personnage principal de la franchise de jeux vidéo Tomb Raider ?",
+        "options": [
+            "Lara Croft",
+            "Nathan Drake",
+            "Elena Fisher",
+            "Joel Miller"
+        ],
+        "answer": "Lara Croft"
+    },
+    {
+        "question": "Quel est le nom du jeu de simulation de vie développé par Maxis et édité par Electronic Arts ?",
+        "options": [
+            "The Sims",
+            "Animal Crossing",
+            "Harvest Moon",
+            "Stardew Valley"
+        ],
+        "answer": "The Sims"
+    },
+    {
+        "question": "Quel est le nom de la franchise de jeux de course développée par Polyphony Digital ?",
+        "options": [
+            "Need for Speed",
+            "Gran Turismo",
+            "Forza Motorsport",
+            "Burnout"
+        ],
+        "answer": "Gran Turismo"
+    },
+    {
+        "question": "Quel est le nom du jeu vidéo de rôle développé par CD Projekt Red ?",
+        "options": [
+            "The Witcher",
+            "Dark Souls",
+            "Bloodborne",
+            "Skyrim"
+        ],
+        "answer": "The Witcher"
+    },
+    {
+        "question": "Quel est le nom du jeu de stratégie en temps réel développé par Blizzard Entertainment ?",
+        "options": [
+            "Age of Empires",
+            "Command & Conquer",
+            "StarCraft",
+            "Warcraft"
+        ],
+        "answer": "StarCraft"
+    },
+    {
+        "question": "Quel est le nom de la franchise de jeux de plateforme développée par Nintendo ?",
+        "options": [
+            "Super Mario",
+            "Sonic the Hedgehog",
+            "Crash Bandicoot",
+            "Alexx Kidd"
+        ],
+        "answer": "Super Mario"
+    },
+    {
+        "question": "Quelle ville était la capitale de l'Empire romain ?",
+        "options": [
+            "Athènes",
+            "Rome",
+            "Alexandrie",
+            "Carthage"
+        ],
+        "answer": "Rome"
+    },
+    {
+        "question": "Dans quelle ville américaine a commencé la révolution américaine ?",
+        "options": [
+            "New York",
+            "Boston",
+            "Washington D.C.",
+            "Philadelphie"
+        ],
+        "answer": "Boston"
+    },
+    {
+        "question": "Qui a été le premier président de la République française ?",
+        "options": [
+            "Napoléon Bonaparte",
+            "Louis XVIII",
+            "Charles de Gaulle",
+            "Louis-Napoléon Bonaparte"
+        ],
+        "answer": "Louis-Napoléon Bonaparte"
+    },
+    {
+        "question": "Quel roi de France a été exécuté pendant la Révolution française ?",
+        "options": [
+            "Louis XIII",
+            "Louis XIV",
+            "Louis XV",
+            "Louis XVI"
+        ],
+        "answer": "Louis XVI"
+    },
+    {
+        "question": "Quel événement historique a marqué le début de la Première Guerre mondiale ?",
+        "options": [
+            "L'assassinat de l'archiduc François-Ferdinand",
+            "Le traité de Versailles",
+            "L'invasion de la Pologne",
+            "L'attaque de Pearl Harbor"
+        ],
+        "answer": "L'assassinat de l'archiduc François-Ferdinand"
+    },
+    {
+        "question": "Dans quelle ville allemande a commencé la Réforme protestante ?",
+        "options": [
+            "Berlin",
+            "Hambourg",
+            "Wittenberg",
+            "Munich"
+        ],
+        "answer": "Wittenberg"
+    },
+    {
+        "question": "Sous le règne de quel empereur romain a été bâti le Colisée ?",
+        "options": [
+            "Jules César",
+            "Vespasien",
+            "Néron",
+            "Titus"
+        ],
+        "answer": "Vespasien"
+    },
+    {
+        "question": "Dans quelle ville a eu lieu la Conférence de Yalta pendant la Seconde Guerre mondiale ?",
+        "options": [
+            "Moscou",
+            "Berlin",
+            "Londres",
+            "Yalta"
+        ],
+        "answer": "Yalta"
+    },
+    {
+        "question": "Quelle bataille a mis fin à la Guerre de Cent Ans en 1453 ?",
+        "options": [
+            "La bataille d'Azincourt",
+            "La bataille de Castillon",
+            "La bataille de Crécy",
+            "La bataille de Poitiers"
+        ],
+        "answer": "La bataille de Castillon"
+    },
+    {
+        "question": "Quel pays a colonisé le Brésil ?",
+        "options": [
+            "L'Espagne",
+            "La France",
+            "Le Portugal",
+            "L'Angleterre"
+        ],
+        "answer": "Le Portugal"
+    },
+    {
+        "question": "En quelle année la France a-t-elle remporté l'Euro de football pour la première fois ?",
+        "options": [
+            "1982",
+            "1984",
+            "1986",
+            "1988"
+        ],
+        "answer": "1984"
+    },
+    {
+        "question": "Quelle est la marque de console de jeu qui a été lancée en 1985 au Japon et en 1986 en Amérique du Nord et en Europe ?",
+        "options": [
+            "Sega Master System",
+            "Nintendo Entertainment System",
+            "Atari 7800",
+            "Commodore 64"
+        ],
+        "answer": "Nintendo Entertainment System"
+    },
+    {
+        "question": "Quelle chanson de Michael Jackson est sortie en 1983 et a été accompagnée d'un clip vidéo révolutionnaire ?",
+        "options": [
+            "Thriller",
+            "Billie Jean",
+            "Beat It",
+            "Bad"
+        ],
+        "answer": "Thriller"
+    },
+    {
+        "question": "Quel film de science-fiction de 1982 a été réalisé par Ridley Scott et met en vedette Harrison Ford et Rutger Hauer ?",
+        "options": [
+            "Terminator",
+            "Alien",
+            "Blade Runner",
+            "The Thing"
+        ],
+        "answer": "Blade Runner"
+    },
+    {
+        "question": "Quelle chanteuse a chanté la célèbre chanson 'Like a Virgin' en 1984 ?",
+        "options": [
+            "Whitney Houston",
+            "Madonna",
+            "Celine Dion",
+            "Tina Turner"
+        ],
+        "answer": "Madonna"
+    },
+    {
+        "question": "Quel est le nom du jeu vidéo classique de 1980 qui met en scène un personnage jaune mangeant des points et des fantômes dans un labyrinthe ?",
+        "options": [
+            "Donkey Kong",
+            "Space Invaders",
+            "Asteroids",
+            "Pac-Man"
+        ],
+        "answer": "Pac-Man"
+    },
+    {
+        "question": "Quel groupe a sorti l'album 'Born in the USA' en 1984 ?",
+        "options": [
+            "Bon Jovi",
+            "Van Halen",
+            "Bruce Springsteen",
+            "The Rolling Stones"
+        ],
+        "answer": "Bruce Springsteen"
+    },
+    {
+        "question": "Quel est le nom de la sitcom américaine de 1985 qui met en vedette un groupe d'ados vivant dans une petite ville du Wisconsin dans les années 1950 ?",
+        "options": [
+            "Happy Days",
+            "The Wonder Years",
+            "Family Ties",
+            "Full House"
+        ],
+        "answer": "The Wonder Years"
+    },
+    {
+        "question": "Quelle chanteuse a chanté la célèbre chanson 'I Will Always Love You' en 1982 ?",
+        "options": [
+            "Whitney Houston",
+            "Madonna",
+            "Celine Dion",
+            "Tina Turner"
+        ],
+        "answer": "Whitney Houston"
+    },
+    {
+        "question": "Quel film de science-fiction culte de 1982 met en scène un jeune garçon nommé Elliott ?",
+        "options": [
+            "Blade Runner",
+            "Les Goonies",
+            "E.T. l'extra-terrestre",
+            "Retour vers le futur"
+        ],
+        "answer": "E.T. l'extra-terrestre"
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": [
+            "L'océan Atlantique",
+            "L'océan Indien",
+            "L'océan Pacifique",
+            "L'océan Arctique"
+        ],
+        "answer": "L'océan Pacifique"
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "options": [
+            "Le Sahara",
+            "Le désert de Mojave",
+            "Le désert d'Arabie",
+            "Le désert d'Atacama"
+        ],
+        "answer": "Le Sahara"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+        "options": [
+            "Brésil",
+            "Argentine",
+            "Pérou",
+            "Chili"
+        ],
+        "answer": "Brésil"
+    },
+    {
+        "question": "Dans quel pays se trouve le mont Everest ?",
+        "options": [
+            "Inde",
+            "Chine",
+            "Népal",
+            "Bhoutan"
+        ],
+        "answer": "Népal"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Afrique ?",
+        "options": [
+            "Congo",
+            "Nigeria",
+            "Soudan",
+            "Algérie"
+        ],
+        "answer": "Algérie"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Europe ?",
+        "options": [
+            "France",
+            "Espagne",
+            "Russie",
+            "Allemagne"
+        ],
+        "answer": "Russie"
+    },
+    {
+        "question": "Quel est le plus grand fleuve d'Amérique du Sud ?",
+        "options": [
+            "L'Amazone",
+            "Le Mississippi",
+            "Le Rio de la Plata",
+            "Le Paraná"
+        ],
+        "answer": "L'Amazone"
+    },
+    {
+        "question": "Dans quel océan se trouve Madagascar ?",
+        "options": [
+            "L'océan Atlantique",
+            "L'océan Pacifique",
+            "L'océan Indien",
+            "L'océan Arctique"
+        ],
+        "answer": "L'océan Indien"
+    },
+    {
+        "question": "Dans quel pays se trouve la ville de Marrakech ?",
+        "options": [
+            "Tunisie",
+            "Algérie",
+            "Maroc",
+            "Libye"
+        ],
+        "answer": "Maroc"
+    },
+    {
+        "question": "Dans quel pays se trouve le Cap de Bonne-Espérance ?",
+        "options": [
+            "Afrique du Sud",
+            "Namibie",
+            "Botswana",
+            "Zimbabwe"
+        ],
+        "answer": "Afrique du Sud"
+    }
+]

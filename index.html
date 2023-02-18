@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+    <html lang="fr">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Quizz Game</title>
+            <link rel="stylesheet" href="./style.css">
+            <!-- CUSTOM FONT -->
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+            <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css2?family=Alef&display=swap" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap" rel="stylesheet">
+            <!-- ICON -->
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        </head>
+        <body>
+            <div class="game">
+                <h1>Quizz Game</h1>
+                <div class="game_categorie">
+                    <button class="btn">Films</button>
+                    <button class="btn">Sports</button>
+                    <button class="btn">Séries TV</button>
+                    <button class="btn">Dessins animés</button>
+                    <button class="btn">Musiques</button>
+                    <button class="btn">Animaux</button>
+                    <button class="btn">Jeux vidéos</button>
+                    <button class="btn">Histoire</button>
+                    <button class="btn">Années 80</button>
+                    <button class="btn">Géographie</button>
+                </div>
+                <div class="game_content">
+                    <div class="info">
+                        <p id="infos_score">0</p>
+                        <p id="infos_timer">10</p>
+                    </div>
+                    <div id="progress_bar">
+                        <div id="progress_bar_inner"></div>
+                        <span id="progress_bar_count">1 / 10</span>
+                    </div>              
+                    <div class="data_container"></div>
+                    <button id="btn_restart" class="btn" aria-label="Rejouer">Rejouer</button>
+                </div>
+            </div>
+            <script src="./app.js"></script>
+        </body>
+    </html>
