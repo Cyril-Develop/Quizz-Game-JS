@@ -6,7 +6,6 @@
 
 html{
     font-size: 62.5%;
-    background: #8254ffe0;
 }
 
 body{
@@ -14,12 +13,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background: #8254ffe0;
 }
 
 .game{
-    padding: 10px 40px 40px;
-    margin: 20px auto 0;
     position: relative;
+    padding: 10px 40px 40px;
     border-radius: 10px;
     max-width: 800px;
     width: 95%;
@@ -88,16 +87,14 @@ h1{
     font-size: clamp(1.6rem, 4vw, 3rem);
 }
 
-/* #infos_timer{
-    animation: pulse 1s infinite;
-} */
-
-#infos_timer, #infos_score{
+#infos_timer, 
+#infos_score{
     display: flex;
     gap: 10px;
 }
 
-#infos_score::before, #infos_timer::before{
+#infos_score::before, 
+#infos_timer::before{
     font-family: 'Font Awesome 6 Free';
 }
 
@@ -195,7 +192,6 @@ ul{
 @media screen and (max-width: 550px) {
 
     .game{
-        margin: 0 auto;
         gap: 20px;
         padding: 10px 20px 30px;
     }
